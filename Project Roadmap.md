@@ -12,5 +12,5 @@ Add button to starting screen (start button) Done
 Add button to starting screen (quit button) Done
 Add color to start button Done
 Add color to quit button Done
-Add button funtionnallity (start) Done 
+-[x] Add button funtionnallity (start) Done 
 Add button funtionnallity (Quit) Done
